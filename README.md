@@ -44,6 +44,6 @@ CRM - para los agentes que llaman y tener registro de las citas o ventas que ten
 
 Integrar en forma de trivia de audio y los episodios que se han agregado como algo alterno y escucharse
 
-## app para vender ilustraciones
+## app para vender ilustraciones --> Victor Pantin
 
 Web para encargar ilustraciones, en donde te comuniques con el cliente y los requerimientos, se lo envías por la web o email --> por definir, y tiene registro de usuario
