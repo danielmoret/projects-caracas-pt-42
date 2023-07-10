@@ -1,12 +1,20 @@
+# Proyectos finales corte 42 - Caracas 🎉
+
 ## app crm control de personal
 
-### proyecto número 1
+## proyecto número 1
 
-    1.- Daniel Rodriguez --> https://github.com/danielrodc ------> Lider
-    2.- José Daniel Zangarini --> https://github.com/jzangarinim
-    3.- Paola Mangelli --> https://github.com/Paola596
+    Descripción
 
-    Github -> proyecto final https://github.com/danielrodc/final-project-crm
+    ### Github
+
+    > - Daniel Rodriguez [danielrodc](https://github.com/danielrodc)
+    > - José Daniel Zangarini [jzangarinim](https://github.com/jzangarinim)
+    > - Paola Mangelli  [Paola596](https://github.com/Paola596)
+
+    [Repositorio](https://github.com/danielrodc/final-project-crm)
+
+    [Proyecto](https://github.com/users/danielrodc/projects/2)
 
 ## app de comida
 
