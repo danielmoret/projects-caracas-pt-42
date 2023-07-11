@@ -4,35 +4,50 @@
 
 ## proyecto número 1
 
-    Descripción
+Descripción
 
-    ### Github
+### Github
 
-    > - Daniel Rodriguez [danielrodc](https://github.com/danielrodc)
-    > - José Daniel Zangarini [jzangarinim](https://github.com/jzangarinim)
-    > - Paola Mangelli  [Paola596](https://github.com/Paola596)
+> - Daniel Rodriguez [danielrodc](https://github.com/danielrodc)
+> - José Daniel Zangarini [jzangarinim](https://github.com/jzangarinim)
+> - Paola Mangelli  [Paola596](https://github.com/Paola596)
 
-    [Repositorio](https://github.com/danielrodc/final-project-crm)
+[Repositorio](https://github.com/danielrodc/final-project-crm)
 
-    [Proyecto](https://github.com/users/danielrodc/projects/2)
+[Proyecto](https://github.com/users/danielrodc/projects/2)
 
 ## app de comida
 
-### Proyecto 2
+### proyecto número 2
 
-    1.- Andres Zabala --> https://github.com/Andlicon -----> Lider
-    2.- Kelvin Ruiz -->  https://github.com/users/kelvinruizdev 
-    3.- Juan Ramos --> https://github.com/jars4u
-    4.- Luis Marín --> https://github.com/LuisMarin-dev
+Descripción
 
-    Github proyecto final -> https://github.com/4GeeksAcademy/proyecto-final-app-restaurante
+### Github
+
+> - Andres Zabala --> [Andlicon](https://github.com/Andlicon) 
+> - Kelvin Ruiz -->  [kelvinruizdev](https://github.com/users/kelvinruizdev) 
+> - Juan Ramos --> [jars4u](https://github.com/jars4u)
+> - Luis Marín --> [LuisMarin-dev](https://github.com/LuisMarin-dev)
+
+[Repositorio](https://github.com/4GeeksAcademy/proyecto-final-app-restaurante)
+
+[Proyecto](https://github.com/orgs/4GeeksAcademy/projects/57)
+
+
 
 ## app para vender ilustraciones
 
-    1.- Daibert Ramirez --> https://github.com/Daibertj ---> Lider
-    2.- Edgar Diaz -->  https://github.com/edgardiaz1212
-    3.- Victor Pantin -->  https://github.com/tuquepantin
+### proyecto número 3
 
-    Github proyecto final -> https://github.com/4GeeksAcademy/daibert-edgar-victor
+Descripción
 
-Web para encargar ilustraciones, en donde te comuniques con el cliente y los requerimientos, se lo envías por la web o email --> por definir, y tiene registro de usuario
+### Github
+
+> - Daibert Ramirez --> [Daibertj](https://github.com/Daibertj)
+> - Edgar Diaz -->  [edgardiaz1212](https://github.com/edgardiaz1212)
+> - Victor Pantin -->  [tuquepantin](https://github.com/tuquepantin)
+
+[Repositorio](https://github.com/4GeeksAcademy/daibert-edgar-victor)
+
+[Proyecto](https://github.com/orgs/4GeeksAcademy/projects/55)
+
