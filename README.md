@@ -25,7 +25,7 @@ Descripción
 ### Github
 
 > - Andres Zabala --> [Andlicon](https://github.com/Andlicon) 
-> - Kelvin Ruiz -->  [kelvinruizdev](https://github.com/users/KelvinRuizDev) 
+> - Kelvin Ruiz -->  [KelvinRuizDev](https://github.com/KelvinRuizDev) 
 > - Juan Ramos --> [jars4u](https://github.com/jars4u)
 > - Luis Marín --> [LuisMarin-dev](https://github.com/LuisMarin-dev)
 
