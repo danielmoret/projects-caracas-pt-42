@@ -18,7 +18,7 @@ Descripción
 
 ## app de comida
 
-### proyecto número 2
+## proyecto número 2
 
 Descripción
 
@@ -37,7 +37,7 @@ Descripción
 
 ## app para vender ilustraciones
 
-### proyecto número 3
+## proyecto número 3
 
 Descripción
 
