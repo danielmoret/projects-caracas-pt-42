@@ -1,8 +1,5 @@
 # Proyectos finales corte 42 - Caracas 🎉
 
-- [SuccessCRM](SuccessCRM)
-- [app de comida](app-de-comida)
-
 ## SuccessCRM
 
 ## proyecto número 1
