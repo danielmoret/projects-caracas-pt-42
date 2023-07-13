@@ -1,10 +1,10 @@
 # Proyectos finales corte 42 - Caracas 🎉
 
-## app crm control de personal
+## SuccessCRM
 
 ## proyecto número 1
 
-Descripción
+Es una app de manejo de datos para las empresas que facilita la manipulación de los recursos, creando categorías y actualizaciones inmediatas entre los departamentos que compartan la misma información. SuccessCRM permite la configuración de permisos que facilita a la empresa cumplir con su estructura jerarquica manteniendo igual una ágil herramienta de trabajo para todos los miembros de acuerdo a su función.
 
 ### Github
 
