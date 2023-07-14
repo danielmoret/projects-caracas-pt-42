@@ -1,7 +1,7 @@
 # Proyectos finales corte 42 - Caracas 🎉
 - [SuccesCRM](#successcrm)
 - [app de comida](#app-de-comida)
-- [app para vender ilustraciones](#app-para-vender-ilustraciones)
+- [Cool-E-Art](#cool-e-art)
 
 ## SuccessCRM
 
@@ -38,11 +38,12 @@ Descripción
 
 
 
-## app para vender ilustraciones
+## Cool-E-Art
 
 ## proyecto número 3
 
-Descripción
+¿Pensabas que el arte había muerto?  De hecho el arte en todas sus facetas ha trascendido toda clase de desgracias humanas, entre ellas guerras, pandemias y muchas otras, siendo un medio de catarsis y desahogo para las malas situaciones vividas por la humanidad.
+En esta era tecnológica que cada vez avanza más rápido, aunque a veces ni nos damos cuenta, llegó una alternativa para los artistas gráficos (léase pintores, dibujantes, diseñadores, fotógrafos, etc…) para montarse en la ola tecnológica y trascender a través de su arte en el tiempo, con nuestra página web Cool-E-Art; exclusivamente diseñada para llevar a todos los rincones del mundo esas obras que tenías guardando polvo. Artistas, expertos y aficionados son bienvenidos a nuestra comunidad ¿Qué esperas? ¡Ven a ver el arte más cool de internet!
 
 ### Github
 
