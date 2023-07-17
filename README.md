@@ -15,7 +15,7 @@ Es una app de manejo de datos para las empresas que facilita la manipulación de
 > - José Daniel Zangarini [jzangarinim](https://github.com/jzangarinim)
 > - Paola Mangelli  [Paola596](https://github.com/Paola596)
 
-[Repositorio](https://github.com/danielrodc/final-project-crm)
+[Repositorio](https://github.com/jzangarinim/success-crm)
 
 [Proyecto](https://github.com/users/danielrodc/projects/2)
 
