@@ -23,7 +23,7 @@ Es una app de manejo de datos para las empresas que facilita la manipulación de
 
 ## proyecto número 2
 
-Descripción
+Con el costo cada vez mayor de los alimentos y la necesidad de administrar el presupuesto, puede ser un desafío encontrar comidas asequibles que también sean deliciosas. Ahí es donde entra en juego nuestra aplicación web: COMECON, una solución para cualquiera que busque platos de comida que se ajusten a su presupuesto sin comprometer el sabor. Los usuarios pueden buscar platos por precio o descripción y ver la información del restaurante o los restaurantes que ofrecen dicho plato, esto facilita encontrar platos adecuados para cada presupuesto.
 
 ### Github
 
