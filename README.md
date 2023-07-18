@@ -1,6 +1,6 @@
 # Proyectos finales corte 42 - Caracas 🎉
 - [SuccesCRM](#successcrm)
-- [app de comida](#app-de-comida)
+- [COMECON](#comecon)
 - [Cool-E-Art](#cool-e-art)
 
 ## SuccessCRM
@@ -19,7 +19,7 @@ Es una app de manejo de datos para las empresas que facilita la manipulación de
 
 [Proyecto](https://github.com/users/danielrodc/projects/2)
 
-## app de comida
+## COMECON
 
 ## proyecto número 2
 
